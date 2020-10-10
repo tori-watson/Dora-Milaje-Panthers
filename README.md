@@ -1,2 +1,4 @@
 # Dora-Milaje-Panthers
-PVAMU all female coding team
+Website/App Name: Discover Tours
+
+Project Description: In the event of Covid-19, CDC guidelines recommend that everyone stay six feet apart and continue wearing their masks. Traveling is restricted in some states and countries but not all. To continue staying safe and follow the CDC guidelines, Discover Tours allows tourists to travel within a safe distance and experience touring on their own or within a small sized group. Students having their senior trip to Barcelona canceled due to Covid can use the app to guide them through museums, monuments, and landmarks. Families traveling to a national park could drive in their car, download the app to their car and the app will guide them as if they were on a tour with someone in person. DiscoverTours helps with making traveling fun and easy on your own six feet a part without taking the risk of harming yourself or others.
